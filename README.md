@@ -1,3 +1,3 @@
 This is the Local DB Trial MD
 
-It has uses a local database
+It uses a local database
